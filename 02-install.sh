@@ -16,7 +16,6 @@ apt-get install --no-install-recommends -y \
 	cpufrequtils usbutils \
 	less psmisc \
 	python-alsaaudio \
-	lirc \
+	linux-headers-4.5.0-botic7-rc1 \
 	linux-image-4.5.0-botic7-rc1 \
-	linux-libc-dev=4.5-botic7-rc1_armhf \
-	linux-headers-4.5.0-botic7-rc1
+	
